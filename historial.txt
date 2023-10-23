@@ -1,0 +1,10 @@
+alejandro 0 2 
+pedro 1 0 
+robayo 1 0 
+pepe 0 0
+sapo 0 0
+perro 0 0
+jose 0 0
+andres 0 0
+laura 0 0
+simona 0 0
