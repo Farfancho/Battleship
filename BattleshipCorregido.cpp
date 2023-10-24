@@ -47,7 +47,6 @@ int main(){
         if(frase == "1"){//TODO jugar
             vaciarMatrizJugador(e1);
             vaciarMatrizJugador(e2);
-
         }
         else if(frase == "2"){//! Terminado nombres
             system("clear");
@@ -95,7 +94,7 @@ bool verificarNumero(int n){
 }
 
 void definirTableros(Jugador &e){
-
+//! Se requiere un apuntador a una matriz
 }
 
 
@@ -137,3 +136,4 @@ bool VerificarNombres(string nombre){
     fileToWrite << "\n" << nombre <<" "<< 0 << " "<< 0;
     return false;
 }
+
